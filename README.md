@@ -30,10 +30,10 @@ Future applications for a more effective tool to use in Galway could use other d
 
 ### Running the Application
 
-    1. Open the directory containing the code
-    2. Open terminal or an IDE (Visual Studio code)
-    3. Run the command ```npm install``` (This installs the required packages)
-    4. Run the command ```ng serve``` (This will open the app in http://localhost:4200/)
+1. Open the directory containing the code
+2. Open terminal or an IDE (Visual Studio code)
+3. Run the command ```npm install``` (This installs the required packages)
+4. Run the command ```ng serve``` (This will open the app in http://localhost:4200/)
 
 ### Requirements
 
