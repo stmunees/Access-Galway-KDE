@@ -38,5 +38,4 @@ Future applications for a more effective tool to use in Galway could use other d
 ### Requirements
 
    1. Angular CLI should be installed. To know more refer link https://angular.io/guide/setup-local
-   2. Sparql end point should be set up.(Here apache fuseki-server is used as sparql endpoint- http://localhost:3030/dataset/sparql )
-      Create a data set with the ttl files in fuseki server and change the endpoint in the code
+   2. Sparql end point should be set up. (Here apache fuseki-server is used as sparql endpoint- http://localhost:3030/dataset/sparql). Create a data set with the ttl files in fuseki server and change the endpoint in the code
