@@ -1,0 +1,1871 @@
+<http://www.semanticweb.org/galway-city/playcoordinates/13>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/13> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/13> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/13> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/13> .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/12>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.267" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.053" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/30>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "133416.111" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226024.47" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/22>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.066880458306748" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.273584551631878" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/27>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "535585.373" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725588.576" .
+
+<http://www.semanticweb.org/galway-city/playground/21>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/21> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundEquipment>
+                <http://www.semanticweb.org/galway-city/playgroundEquipment/Basketball%20Hoops> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Parking%20along%20the%20pu> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Tarmac> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Headford Road, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Ballinfoyle Park Multi Use Games" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "21" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/4>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "530952.396" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725999.097" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/21>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/21> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/21> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/21> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/21> .
+
+<http://www.semanticweb.org/galway-city/playground/4>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/4> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Public%20car%20park%20on%20C> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Lough Atalia Road, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Lough Atalia Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "4" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/20>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.268" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.119" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/17>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129371.318" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225541.82" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/2>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.283" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.018" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/4>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.034756294919219" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.279577244572948" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/30>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.998348627038325" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.280376287317495" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/1>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/1> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/1> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/1> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/1> .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/14>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "528800.073" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725338.867" .
+
+<http://www.semanticweb.org/galway-city/playground/29>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/29> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Wood%20Bark%20Surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Doughiska, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Merlin Park Toddler Area" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "29" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/29>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/29> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/29> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/29> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/29> .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/5>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "133385.187" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225983.717" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/28>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.283" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.988" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/25>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "126030.592" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225488.965" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/9>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/9> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/9> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/9> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/9> .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/17>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.058877416761536" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.275516779080782" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/22>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "528800.447" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725363.902" .
+
+<http://www.semanticweb.org/galway-city/playground/16>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/16> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Parking%20along%20public> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Seamus Quirke Road, Newcastle" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Westside Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "16" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/16>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/16> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/16> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/16> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/16> .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/15>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.261" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.073" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/12>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129782.044" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224571.327" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/25>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.1089398239322" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.27458673372346" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/30>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "533381.259" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726053.45" .
+
+<http://www.semanticweb.org/galway-city/playground/24>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/24> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Adjacent%20public%20car> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Concrete> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "University Road, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Millennium Children's Park Skate Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "24" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "Yes" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/7>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "534403.705" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726791.131" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/24>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/24> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/24> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/24> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/24> .
+
+<http://www.semanticweb.org/galway-city/playground/7>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/7> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Doughiska North, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "An Sean Bhaile Playground 2" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "7" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "Yes" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/23>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.277" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.08" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/20>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "125381.482" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224776.638" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/5>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.28" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.999" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/7>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.983169621032498" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.28713309757714" .
+
+<http://www.semanticweb.org/galway-city/playgroundEquipment/Basketball%20Hoops>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundEquipment> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Basketball Hoops" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/4>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/4> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/4> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/4> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/4> .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/12>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.052506681015425" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.266851698926622" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/17>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529337.338" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725570.927" .
+
+<http://www.semanticweb.org/galway-city/playground/11>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/11> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Adjacent%20public%20car> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Father Griffin Road/ Munster Ave." ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Fr Burke Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "11" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/11>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/11> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/11> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/11> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/11> .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/8>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "130520.58" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225928.887" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/10>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.293" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.042" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/28>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "134136.264" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226230.631" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/20>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.118502103577136" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.268095944137549" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/25>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "525997.332" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725518.105" .
+
+<http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundParking> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Within estate" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/2>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532120.521" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726326.313" .
+
+<http://www.semanticweb.org/galway-city/playground/19>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/19> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Car%20park%20in%20Cappagh> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Wood%20Bark%20Surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Cappagh Road, Knockanacarra" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Cappagh Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "19" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "Yes- At adjacent Kno" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/19>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/19> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/19> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/19> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/19> .
+
+<http://www.semanticweb.org/galway-city/playground/2>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/2> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Mervue, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Mervue Public Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "2" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/18>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.263" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.111" .
+
+<http://www.semanticweb.org/galway-city/playgroundSurface/Concrete>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundSurface> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Concrete" .
+
+<http://www.semanticweb.org/galway-city/playgroundParking/Adjacent%20public%20car>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundParking> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adjacent public car" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/15>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "128466.476" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "223913.087" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/2>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.017311033673352" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.282668600004847" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/28>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.987595230886429" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.282318509679968" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/12>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529747.972" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724600.64" .
+
+<http://www.semanticweb.org/galway-city/playground/27>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/27> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Wood%20Bark%20Surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Roscam Park" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Roscam Park Playground 2" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "27" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/27>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/27> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/27> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/27> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/27> .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/3>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "131447.51" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225634.955" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/26>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.275" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.969" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/23>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "128023.988" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225679.077" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/8>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.279" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.042" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/7>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/7> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/7> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/7> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/7> .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/15>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.072074238227936" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.260761974018052" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/20>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "525348.36" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724805.934" .
+
+<http://www.semanticweb.org/galway-city/playground/14>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/14> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Parking%20along%20public> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "McDara Road, Shantalla" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Sliding Rock Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "14" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/14>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/14> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/14> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/14> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/14> .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/13>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.271" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.06" .
+
+<http://www.semanticweb.org/galway-city/playgroundParking/Parking%20along%20public>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundParking> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parking along public" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/10>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "130589.455" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "227418.488" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/23>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.07910399348593" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.276568937802615" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/28>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "534101.258" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726259.563" .
+
+<http://www.semanticweb.org/galway-city/playground/22>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/22> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundEquipment>
+                <http://www.semanticweb.org/galway-city/playgroundEquipment/Basketball%20Hoops> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Parking%20along%20public> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Tarmac> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "McDara Road, Shantalla" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Sliding Rock Park Multi Use Games" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "22" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/5>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "533350.341" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726012.706" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/22>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/22> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/22> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/22> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/22> .
+
+<http://www.semanticweb.org/galway-city/playground/5>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/5> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Merlin Woods, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Merlin Woods Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "5" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playgroundSurface/Wood%20Bark%20Surface>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundSurface> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Wood Bark Surface" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/21>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.293" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.041" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/18>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "125905.959" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224132.845" .
+
+<http://www.semanticweb.org/galway-city/playgroundSurface/Tarmac>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundSurface> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tarmac" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/3>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.277" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.028" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/5>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.998803687761889" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.280006242417279" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/2>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/2> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/2> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/2> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/2> .
+
+<http://www.semanticweb.org/galway-city/playground/30>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/30> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Merlin Woods, adjacent to Merlin Castle" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Merlin Woods Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "30" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/10>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.041027981171062" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.292538856463239" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/15>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "528432.686" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "723942.549" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/30>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/30> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/30> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/30> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/30> .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/6>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "134320.023" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "227080.077" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/29>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.283" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.989" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/26>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "135435.363" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225422.098" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/23>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "527990.299" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725708.163" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/18>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.110492132386987" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.262385227756589" .
+
+<http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundSurface> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rubber Wet-pour surface" .
+
+<http://www.semanticweb.org/galway-city/playground/17>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/17> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Adjacent%20public%20car> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "University Road, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Millennium Children's Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "17" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "Yes" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "Yes" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/17>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/17> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/17> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/17> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/17> .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/16>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.276" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.082" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/13>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129322.719" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225045.188" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/26>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.967954778167265" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.275213599884601" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/10>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "530555.218" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "727447.186" .
+
+<http://www.semanticweb.org/galway-city/playgroundParking/Car%20park%20in%20Cappagh>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundParking> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Car park in Cappagh" .
+
+<http://www.semanticweb.org/galway-city/playground/25>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/25> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Clybaun Road, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Na Blatha Creige" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "25" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/8>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "530486.353" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725957.905" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/25>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/25> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/25> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/25> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/25> .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/1>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "133426.244" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226658.92" .
+
+<http://www.semanticweb.org/galway-city/playground/8>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/8> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Coole Park Estate, Bohermore, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Coole Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "8" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/24>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.275" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.06" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/21>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "130612.537" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "227441.75" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/6>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.29" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.986" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/8>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.041735192008684" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.279146202517097" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/5>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/5> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/5> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/5> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/5> .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/13>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.059495537167207" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.271048227816145" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/18>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "525872.722" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724162.275" .
+
+<http://www.semanticweb.org/galway-city/playground/12>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/12> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Adjacent%20public%20car> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Claddagh, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "South Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "12" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "Yes" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/12>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/12> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/12> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/12> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/12> .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/9>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "130065.556" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225363.945" .
+
+<http://www.semanticweb.org/galway-city/playgroundParking/Public%20car%20park%20on%20C>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundParking> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Public car park on C" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/11>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.269" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.059" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/29>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "134102.322" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226226.759" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/21>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.040686935593206" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.29275088208815" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/26>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "535400.074" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725451.195" .
+
+<http://www.semanticweb.org/galway-city/playground/20>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/20> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Ballymoneen Road, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Slí Burca Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "20" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/3>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "531413.082" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725664.03" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/20>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/20> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/20> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/20> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/20> .
+
+<http://www.semanticweb.org/galway-city/playground/3>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/3> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Renmore, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Lakeshore Drive Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "3" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/19>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.263" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.131" .
+
+<http://www.semanticweb.org/galway-city/playgroundParking/Adjacent%20to%20public%20&>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundParking> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adjacent to public &" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/16>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "127869.163" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225593.256" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/1>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.286" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.999" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/3>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.027776427763447" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.276625869353005" .
+
+<http://www.semanticweb.org/galway-city/playgroundSurface/Wood%20Bark%20and%20Grass%20turf%20surface>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundSurface> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Wood Bark and Grass turf surface" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/29>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.988103297020848" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.282279505951877" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/13>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529288.748" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725074.402" .
+
+<http://www.semanticweb.org/galway-city/playground/28>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/28> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Wood%20Bark%20and%20Grass%20turf%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Doughiska, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Merlin Park Adventure Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "28" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/28>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/28> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/28> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/28> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/28> .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/4>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "130986.724" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225970.091" .
+
+<http://www.semanticweb.org/galway-city/playgroundParking/Parking%20along%20the%20pu>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundParking> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parking along the pu" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/27>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.277" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.966" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/24>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129316.878" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225497.21" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/9>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.274" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.049" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/8>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/8> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/8> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/8> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/8> .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/16>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.08140529466273" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.275776843341127" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/21>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "530578.295" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "727470.443" .
+
+<http://www.semanticweb.org/galway-city/playground/15>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/15> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Adjacent%20public%20car> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Wood%20Bark%20Surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Quincentennial Drive, Salthill" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Claude Toft Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "15" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/15>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/15> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/15> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/15> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/15> .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/14>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.274" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.067" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/11>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129409.327" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224756.269" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/24>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.059683524336663" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.27510872992957" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/29>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "534067.323" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726255.692" .
+
+<http://www.semanticweb.org/galway-city/playground/23>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/23> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Parking%20along%20public> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Concrete> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Seamus Quirke Road, Newcastle" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Westside Park Skate Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "23" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/6>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "534284.979" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "727108.825" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/23>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/23> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/23> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/23> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/23> .
+
+<http://www.semanticweb.org/galway-city/playground/6>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/6> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Doughiska South, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "An Sean Bhaile Playground 1" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "6" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/22>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.274" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.067" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/19>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "124595.972" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224209.147" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/4>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.28" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.035" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/6>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.985015831956776" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.289973451613562" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/3>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/3> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/3> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/3> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/3> .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/11>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.05813338579326" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.268463905723074" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/16>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "527835.507" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725622.361" .
+
+<http://www.semanticweb.org/galway-city/playground/10>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/10> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Parking%20along%20the%20pu> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Headford Road, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Ballinfoyle Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "10" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/10>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/10> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/10> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/10> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/10> .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/7>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "134438.775" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226762.315" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/30>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.281" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.999" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/27>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "135620.703" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225559.51" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/24>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529282.91" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725526.328" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/19>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.130139637264891" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.262886315965609" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/1>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "533391.393" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726687.764" .
+
+<http://www.semanticweb.org/galway-city/playground/18>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/18> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Parking%20along%20public> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Shangort Road, Knocknacarra" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "McGrath's Field Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "18" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "Yes" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/18>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/18> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/18> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/18> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/18> .
+
+<http://www.semanticweb.org/galway-city/playground/1>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/1> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Ballybane, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Gleann Bhan Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "1" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/17>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.276" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.059" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/14>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "128833.938" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225309.707" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/1>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.998329572914693" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.28607799209113" .
+
+<http://www.semanticweb.org/galway-city/playgroundParking/On%20street%20parking>
+        a       <http://www.semanticweb.org/galway-city/PlaygroundParking> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "On street parking" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/27>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.965204414767223" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.276470749984526" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/11>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529375.336" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724785.544" .
+
+<http://www.semanticweb.org/galway-city/playground/26>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/26> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Within%20estate> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Wood%20Bark%20Surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Roscam Park" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Roscam Park Playground 1" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "26" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/9>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "530031.425" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725393.086" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/26>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/26> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/26> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/26> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/26> .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/2>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132155.1" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226297.384" .
+
+<http://www.semanticweb.org/galway-city/playground/9>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/9> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/Adjacent%20to%20public%20&> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Eyre Square, Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Kennedy Park Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "9" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/25>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.275" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.11" .
+
+<http://www.semanticweb.org/galway-city/playiGCoordinates/22>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "128834.312" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225334.747" .
+
+<http://www.semanticweb.org/galway-city/playlatLongCoordinates/7>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.287" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.984" .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/9>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.048432094628994" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.274010577815638" .
+
+<http://www.semanticweb.org/galway-city/playcoordinates/6>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/playcartesianCoordinates/6> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/playiGCoordinates/6> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/playiTMCoordinates/6> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/playlatLongCoordinates/6> .
+
+<http://www.semanticweb.org/galway-city/playcartesianCoordinates/14>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.066880460516916" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.273359523808026" .
+
+<http://www.semanticweb.org/galway-city/playiTMCoordinates/19>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "524563.017" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724238.569" .
+
+<http://www.semanticweb.org/galway-city/playground/13>
+        a       <http://www.semanticweb.org/galway-city/Playground> ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/playcoordinates/13> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundParking>
+                <http://www.semanticweb.org/galway-city/playgroundParking/On%20street%20parking> ;
+        <http://www.semanticweb.org/galway-city/hasPlaygroundSurface>
+                <http://www.semanticweb.org/galway-city/playgroundSurface/Rubber%20Wet-pour%20surface> ;
+        <http://www.semanticweb.org/galway-city/location>
+                "Henry St., Galway" ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Henry Street Playground" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "13" ;
+        <http://www.semanticweb.org/galway-city/openingHrs>
+                "No restricted opening hours" ;
+        <http://www.semanticweb.org/galway-city/specialNeedsEquipment>
+                "No" ;
+        <http://www.semanticweb.org/galway-city/toiletFacility>
+                "No" .

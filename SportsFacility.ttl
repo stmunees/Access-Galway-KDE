@@ -1,0 +1,2478 @@
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/40>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132868.43" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226609.643" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/19>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129645.386" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224296.615" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/28>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.282" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.02" .
+
+<http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch>
+        a       <http://www.semanticweb.org/galway-city/FacilityPitchType> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Soccer Pitch" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/47>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a56" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/47> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/All%20weather%20pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Bohermore" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "47" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/26>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a31" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/26> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "O'Sullivan Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "26" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/36>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/36> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/36> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/36> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/36> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/47>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.046096963188642" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.281972377203083" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/15>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/15> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/15> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/15> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/15> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/26>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.020683950846866" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.282833385386432" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/39>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532241.716" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725618.348" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/3>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.265" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.131" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/18>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529757.052" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724383.602" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/6>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a07" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/6> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Millars Lane 1" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "6" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/8>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/8> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/8> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/8> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/8> .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/27>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132096.025" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226318.262" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/36>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.275" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.019" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/3>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "524552.172" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724413.47" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/15>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.277" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.07" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/34>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a39" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/34> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Renmore Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "34" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/13>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a15" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/13> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Laurel Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "13" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/44>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/44> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/44> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/44> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/44> .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/23>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/23> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/23> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/23> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/23> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/34>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.022877974353991" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.276825390636183" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/1>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "124370.044" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224356.434" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/13>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.0752079670855" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.282819364870974" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/47>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "530239.958" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726249.746" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/26>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "531935.965" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726321.043" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/35>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "131845.591" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225520.383" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/44>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.282" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.022" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/14>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "128504.364" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226282.743" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/23>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.282" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.045" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/42>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a47" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/42> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Castlepark" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "42" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/21>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a25" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/21> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "South Park, Mutton Island" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "21" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/31>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/31> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/31> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/31> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/31> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/42>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.007816927289415" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.287931384775334" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/21>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.056017036686812" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.263633391762617" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/9>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "127963.355" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225432.985" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/10>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/10> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/10> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/10> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/10> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/6>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.094416009900588" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.272902366987871" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/34>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "531780.096" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725654.646" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/13>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "528300.145" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726372.797" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/1>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a01" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/1> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Cappagh Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "1" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/43>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "131980.018" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226206.266" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/3>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/3> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/3> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/3> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/3> .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/22>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129847.585" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225764.094" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/31>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.28" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.023" .
+
+<http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch>
+        a       <http://www.semanticweb.org/galway-city/FacilityPitchType> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "G.A.A. Pitch" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/10>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.275" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.078" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/29>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a34" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/29> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Fahy's Field" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "29" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/39>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/39> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/39> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/39> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/39> .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/18>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/18> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/18> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/18> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/18> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/29>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.020259957385745" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.281127387569043" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/42>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532801.97" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726876.105" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/21>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529548.308" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724218.967" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/6>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.273" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.094" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/9>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a11" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/9> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Westside Sports" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "9" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/30>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "131900.806" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226073.821" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/39>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.277" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.016" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/6>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "527002.416" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725288.817" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/18>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.265" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.053" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/37>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a42" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/37> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Renmore Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "37" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/16>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a19" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/16> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Corrib Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "16" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/47>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/47> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/47> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/47> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/47> .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/26>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/26> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/26> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/26> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/26> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/37>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.018569977861185" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.275568393437368" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/4>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "124388.913" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224085.858" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/16>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.075044987184404" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.277601370331276" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/1>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.13415204770846" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.264415357133309" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/29>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "531961.528" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726130.819" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/38>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132368.211" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225515.054" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/47>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.282" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.046" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/17>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129702.331" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224456.067" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/26>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.283" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.021" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/45>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a54" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/45> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Doughiska" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "45" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/24>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a28" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/24> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Crestwood" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "24" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/34>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/34> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/34> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/34> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/34> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/45>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.984764931020152" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.284200396186598" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/13>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/13> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/13> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/13> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/13> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/24>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.046623914383423" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.294849364344849" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/9>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.080556000656554" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.274586371574642" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/37>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532065.412" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725510.681" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/1>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.264" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.134" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/16>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "528302.281" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725792.048" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/4>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a04" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/4> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Cappagh Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "4" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/46>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "135493.798" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225307.77" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/6>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/6> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/6> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/6> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/6> .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/25>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "130357.047" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "227570.818" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/34>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.277" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.023" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/1>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "524337.139" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724385.826" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/13>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.283" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.075" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/32>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a37" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/32> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Mervue" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "32" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/11>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a13" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/11> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Westside Sports" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "11" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/42>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/42> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/42> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/42> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/42> .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/21>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/21> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/21> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/21> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/21> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/32>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.014044944634216" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.28400038670641" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/11>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.079857996189753" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.275732370318082" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/45>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "534333.239" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726439.541" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/24>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "530225.799" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "727683.038" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/9>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.275" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.081" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/33>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132420.683" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226321.55" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/42>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.288" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.008" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/12>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "127956.429" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225623.661" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/21>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.264" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.056" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/9>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "527929.678" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725462.124" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/40>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a45" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/40> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Rugby%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Castlepark" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "40" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/19>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a23" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/19> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "South Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "19" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/40>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.007290934449784" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.285800387492735" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/29>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/29> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/29> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/29> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/29> .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/7>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "127088.004" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225185.258" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/19>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.055096032514262" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.26460339141893" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/4>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.133805057798897" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.261987360149853" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/32>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532380.513" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726444.59" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/11>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "527978.158" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725588.931" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/41>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132778.08" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226758.74" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/1>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/1> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/1> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/1> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/1> .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/20>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129748.203" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224294.654" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/29>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.281" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.02" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/27>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a32" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/27> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "O'Sullivan Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "27" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/37>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/37> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/37> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/37> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/37> .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/16>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/16> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/16> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/16> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/16> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/27>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.01880794928336" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.283084386271774" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/40>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532833.699" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726638.501" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/4>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.262" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.134" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/19>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529611.343" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724325.988" .
+
+<http://www.semanticweb.org/galway-city/facilityPitchType/Rugby%20Pitch>
+        a       <http://www.semanticweb.org/galway-city/FacilityPitchType> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rugby Pitch" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/7>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a08" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/7> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Millars Lane 2" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "7" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/28>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132039.605" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226207.196" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/9>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/9> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/9> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/9> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/9> .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/37>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.276" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.019" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/4>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "524356.003" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724115.308" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/16>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.278" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.075" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/35>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a40" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/35> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Renmore Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "35" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/14>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a16" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/14> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Rugby%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Laurel Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "14" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/45>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/45> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/45> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/45> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/45> .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/24>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/24> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/24> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/24> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/24> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/35>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.022390978671845" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.275884392189852" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/2>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "124443.205" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224205.553" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/14>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.072638967824622" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.282293366765032" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/27>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532061.459" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726347.186" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/36>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132038.045" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225400.756" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/45>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.284" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.985" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/15>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "128652.663" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225680.979" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/24>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.295" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.047" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/43>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a52" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/43> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/5-a-side%20Soccer%20Pitches> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Mervue" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "43" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/22>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a26" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/22> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "The Plots" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "22" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/32>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/32> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/32> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/32> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/32> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/43>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.020522954723948" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.282063386125301" .
+
+<http://www.semanticweb.org/galway-city/facilityPitchType/All%20Weather%20Pitch>
+        a       <http://www.semanticweb.org/galway-city/FacilityPitchType> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "All Weather Pitch" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/11>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/11> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/11> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/11> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/11> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/22>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.05238998063774" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.277813379391979" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/7>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.093618011450358" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.272241368365748" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/35>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "531811.077" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725549.48" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/14>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "528470.573" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726311.697" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/2>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a02" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/2> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Cappagh Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "2" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/44>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "131911.417" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226181.421" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/23>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "130334.886" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226210.328" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/4>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/4> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/4> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/4> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/4> .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/32>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.284" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.014" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/11>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.276" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.08" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/30>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a35" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/30> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Fahy's Field" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "30" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/40>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/40> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/40> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/40> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/40> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/30>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.021681958972888" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.280863387555542" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/19>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/19> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/19> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/19> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/19> .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/43>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "531945.477" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726235.215" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/22>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529813.503" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725793.151" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/7>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.272" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.094" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/31>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "131795.756" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226019.555" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/40>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.286" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.007" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/10>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "128124.102" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225517.495" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/7>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "527054.515" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725214.456" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/19>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.265" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.055" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/38>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a43" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/38> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Westpark" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "38" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/17>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a21" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/17> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "South Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "17" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/27>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/27> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/27> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/27> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/27> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/38>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.014556974650674" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.275903394342642" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/5>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "125908.684" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224239.443" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/17>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.054278026026649" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.266043390322466" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/2>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.133020053521141" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.263070358806161" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/30>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "531866.282" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726102.799" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/39>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132276.323" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225589.268" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/18>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129791.127" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224354.242" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/27>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.283" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.019" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/46>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a55" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/46> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Roscam" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "46" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/25>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a29" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/25> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Crestwood" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "25" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/35>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/35> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/35> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/35> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/35> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/46>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-8.967668957364486" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.274430409975999" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/14>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/14> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/14> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/14> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/14> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/25>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.045149917256941" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.294111364966483" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/38>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532333.584" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725544.149" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/2>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.263" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.133" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/17>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529668.276" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724485.405" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/5>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a05" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/5> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "McGrath's Field" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "5" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/47>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "130274.131" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226220.789" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/7>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/7> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/7> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/7> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/7> .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/26>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "131970.503" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226292.112" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/35>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.276" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.022" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/2>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "524410.284" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724234.977" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/14>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.282" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.073" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/33>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a38" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/33> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Mervue" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "33" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/12>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a14" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/12> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Westside Sports" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "12" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/43>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/43> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/43> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/43> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/43> .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/22>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/22> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/22> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/22> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/22> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/33>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.013941946862763" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.283155387484122" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/12>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.080702993786982" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.276298369719427" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/46>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "535458.495" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725336.891" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/25>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "530322.861" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "727599.485" .
+
+<http://www.semanticweb.org/galway-city/facilityPitchType/5-a-side%20Soccer%20Pitches>
+        a       <http://www.semanticweb.org/galway-city/FacilityPitchType> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "5-a-side Soccer Pitches" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/34>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "131814.603" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225625.571" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/43>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.282" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.021" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/13>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "128333.899" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226343.855" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/22>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.278" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.052" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/41>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a46" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/41> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Castlepark" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "41" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/20>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a24" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/20> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "South Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "20" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/30>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/30> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/30> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/30> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/30> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/41>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.008676931213778" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.287128384874855" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/20>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.053555032558247" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.264599391601635" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/8>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "127727.391" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225189.325" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/5>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.111071048579548" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.26358136885726" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/33>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532386.048" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726350.472" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/12>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "527922.754" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725652.759" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/42>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132836.694" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226847.298" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/2>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/2> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/2> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/2> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/2> .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/21>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "129582.338" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224189.571" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/30>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.281" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.022" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/28>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a33" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/28> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Fahy's Field" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "28" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/38>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/38> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/38> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/38> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/38> .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/17>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/17> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/17> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/17> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/17> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/28>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.019629953495372" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.282079386473647" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/41>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532743.369" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726787.567" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/20>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "529714.138" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724324.026" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/5>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.264" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.111" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/8>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a09" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/8> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/All%20Weather%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Glen Oakes 1" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "8" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/29>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "131996.073" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226101.847" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/38>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.276" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.015" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/5>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "525875.447" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "724268.851" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/17>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.266" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.054" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/36>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a41" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/36> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Renmore Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "36" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/15>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a17" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/15> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Shantalla" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "15" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/46>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/46> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/46> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/46> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/46> .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/25>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/25> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/25> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/25> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/25> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/36>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.019480981067694" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.27483439405578" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/3>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "124585.123" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "224384.085" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/15>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.070280989412778" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.276907373115044" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/28>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532005.051" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726236.145" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/37>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132099.981" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225481.577" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/46>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.274" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-8.968" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/16>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "128336.037" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225762.982" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/25>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.294" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.045" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/44>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a53" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/44> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/All%20weather%20soccer%20pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Mervue" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "44" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/23>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a27" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/23> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Bohermore" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "23" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/33>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/33> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/33> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/33> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/33> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/44>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.021545954820921" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.281831385999709" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/12>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/12> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/12> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/12> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/12> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/23>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.045183962652379" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.281886377799538" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/8>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.084037009134306" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.272365372205876" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/36>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "532003.489" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725429.878" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/15>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "528618.838" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725710.061" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/3>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a03" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/3> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Cappagh Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "3" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/45>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "134368.295" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226410.649" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/24>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "130259.965" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "227654.388" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/5>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/5> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/5> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/5> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/5> .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/33>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.283" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.014" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/12>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.276" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.081" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/31>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a36" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/31> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Jesuit's Field" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "31" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/10>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a12" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/10> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/G.A.A.%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Westside Sports" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "10" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/41>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/41> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/41> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/41> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/41> .
+
+<http://www.semanticweb.org/galway-city/facilityPitchType/All%20weather%20pitch>
+        a       <http://www.semanticweb.org/galway-city/FacilityPitchType> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "All weather pitch" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/20>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/20> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/20> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/20> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/20> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/31>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.023244962029686" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.280362387130118" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/10>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.078165997230816" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.275367371080229" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/44>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "531876.891" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726210.376" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/23>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "530300.7" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726239.286" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/8>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.272" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.084" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/32>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "132415.148" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "226415.688" .
+
+<http://www.semanticweb.org/galway-city/facilityPitchType/All%20weather%20soccer%20pitch>
+        a       <http://www.semanticweb.org/galway-city/FacilityPitchType> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "All weather soccer pitch" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/41>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.287" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.009" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/11>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "128011.845" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225559.819" .
+
+<http://www.semanticweb.org/galway-city/sportslatLongCoordinates/20>
+        a       <http://www.semanticweb.org/galway-city/LatLongCoordinates> ;
+        <http://www.semanticweb.org/galway-city/latitude>
+                "53.265" ;
+        <http://www.semanticweb.org/galway-city/longitude>
+                "-9.054" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/8>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "527693.765" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725218.518" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/39>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a44" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/39> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Soccer%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "Westpark" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "39" .
+
+<http://www.semanticweb.org/galway-city/sportsFacilities/18>
+        a       <http://www.semanticweb.org/galway-city/SportsFacility> ;
+        <http://www.semanticweb.org/galway-city/facilityNumber>
+                "a22" ;
+        <http://www.semanticweb.org/galway-city/hasCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscoordinates/18> ;
+        <http://www.semanticweb.org/galway-city/hasPitchType>
+                <http://www.semanticweb.org/galway-city/facilityPitchType/Rugby%20Pitch> ;
+        <http://www.semanticweb.org/galway-city/name>
+                "South Park" ;
+        <http://www.semanticweb.org/galway-city/objectId>
+                "18" .
+
+<http://www.semanticweb.org/galway-city/sportscoordinates/28>
+        a       <http://www.semanticweb.org/galway-city/Coordinates> ;
+        <http://www.semanticweb.org/galway-city/hasCartesianCoordinates>
+                <http://www.semanticweb.org/galway-city/sportscartesianCoordinates/28> ;
+        <http://www.semanticweb.org/galway-city/hasIGCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsigCoordinates/28> ;
+        <http://www.semanticweb.org/galway-city/hasITMCoordinates>
+                <http://www.semanticweb.org/galway-city/sportsitmCoordinates/28> ;
+        <http://www.semanticweb.org/galway-city/hasLatLongCoordinates>
+                <http://www.semanticweb.org/galway-city/sportslatLongCoordinates/28> .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/39>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.015949973015884" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.276558393925896" .
+
+<http://www.semanticweb.org/galway-city/sportsigCoordinates/6>
+        a       <http://www.semanticweb.org/galway-city/IGCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastIG>
+                "127035.893" ;
+        <http://www.semanticweb.org/galway-city/northIG>
+                "225259.635" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/18>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.052925029292915" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.265140391650817" .
+
+<http://www.semanticweb.org/galway-city/sportscartesianCoordinates/3>
+        a       <http://www.semanticweb.org/galway-city/CartesianCoordinates> ;
+        <http://www.semanticweb.org/galway-city/cartesianX>
+                "-9.13093604648447" ;
+        <http://www.semanticweb.org/galway-city/cartesianY>
+                "53.264694358382251" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/31>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "531761.254" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "726048.546" .
+
+<http://www.semanticweb.org/galway-city/sportsitmCoordinates/10>
+        a       <http://www.semanticweb.org/galway-city/ITMCoordinates> ;
+        <http://www.semanticweb.org/galway-city/eastITM>
+                "528090.391" ;
+        <http://www.semanticweb.org/galway-city/northITM>
+                "725546.615" .
